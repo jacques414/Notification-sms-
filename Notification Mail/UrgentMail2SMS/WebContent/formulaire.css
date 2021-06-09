@@ -1,0 +1,15 @@
+#form1{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #0000CC;
+	font-style: italic;
+	left: 517px;
+	position: absolute;
+	top: 61px;
+	width: 424px;
+	border-top-style: double;
+	border-right-style: double;
+	border-bottom-style: double;
+	border-left-style: double;
+}
